@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vishal Jha</h1>
 <h3 align="center">Sophomore engineering undergraduate majoring in Computer science with a specialization in Artificial Intelligence and Machine Learning at SRM University.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishaljha2121" alt="vishaljha2121" /></a> </p>
+
 
 - 🌱 I’m currently learning **Machine Learning and also experimenting with MERN stack**
 
