@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/vishaljha2121](https://github.com/vishaljha2121)
 
-- 💬 Ask me about **DSA, MERN stack, ML**
+- 💬 Ask me anythin about **Tech related stuff...**
 
 - 📫 How to reach me **jha.vishal2121@gmail.com**
 
